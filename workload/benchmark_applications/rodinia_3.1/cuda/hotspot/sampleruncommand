@@ -1,0 +1,2 @@
+./hotspot  1000 52 52 /home/shashi/gpu/rodinia_3.1/data/hotspot/temp_1024 /home/shashi/gpu/rodinia_3.1/data/hotspot/power_1024  outputtest
+

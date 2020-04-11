@@ -1,0 +1,15 @@
+Kernel_Name
+single_precision_fu_utilization
+double_precision_fu_utilization
+dram_utilization
+sysmem_utilization
+sysmem_read_utilization
+sysmem_write_utilization
+shared_utilization
+tex_utilization
+ldst_fu_utilization
+cf_fu_utilization
+tex_fu_utilization
+special_fu_utilization
+half_precision_fu_utilization
+l2_utilization

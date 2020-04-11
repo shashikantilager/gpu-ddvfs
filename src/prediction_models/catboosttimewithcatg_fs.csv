@@ -1,0 +1,127 @@
+   ,Feature                              ,Score
+110,sm                                   ,74.14997091123227
+3  ,branch_efficiency                    ,3.374589760737817
+55 ,flop_count_sp_special                ,2.6375188041314703
+68 ,inst_fp_64                           ,2.3828313046839775
+49 ,flop_count_dp_fma                    ,2.2433651392680956
+87 ,achieved_occupancy                   ,2.229789823950273
+1  ,sm_clock                             ,2.0420790839457865
+59 ,stall_exec_dependency                ,1.6357764955883327
+50 ,flop_count_dp_mul                    ,1.107605647582521
+47 ,flop_count_dp                        ,1.0208730211502723
+48 ,flop_count_dp_add                    ,0.6994424468146943
+52 ,flop_count_sp_add                    ,0.5626375591945656
+13 ,shared_load_transactions             ,0.49412975035887136
+36 ,l2_tex_write_throughput              ,0.3135741136774853
+58 ,stall_inst_fetch                     ,0.31235599376028655
+101,dram_write_bytes                     ,0.30786666631924986
+66 ,shared_efficiency                    ,0.29621059145864304
+67 ,inst_fp_32                           ,0.2392211960399321
+70 ,inst_bit_convert                     ,0.21127990175840414
+94 ,inst_executed_shared_loads           ,0.19673348390080794
+30 ,l2_tex_read_hit_rate                 ,0.19425407845458864
+85 ,issue_slot_utilization               ,0.18662981966487993
+100,dram_read_bytes                      ,0.16043895247924958
+97 ,inst_executed_shared_stores          ,0.15052386526112196
+56 ,inst_executed                        ,0.14269171203144812
+108,l2_tex_hit_rate                      ,0.1381525870288055
+63 ,stall_other                          ,0.12230643280166369
+83 ,ipc                                  ,0.11102455658715424
+27 ,gst_throughput                       ,0.10115099132716035
+26 ,gld_throughput                       ,0.0961323860645551
+20 ,l2_write_transactions                ,0.0937564984410075
+34 ,tex_cache_throughput                 ,0.08845816214870872
+5  ,warp_nonpred_execution_efficiency    ,0.08518696337563814
+90 ,flop_dp_efficiency                   ,0.08306742323233568
+21 ,dram_read_transactions               ,0.07881233601834452
+45 ,gst_efficiency                       ,0.07780318606327251
+22 ,dram_write_transactions              ,0.0776694669087772
+12 ,shared_store_transactions            ,0.07028259283086612
+44 ,gld_efficiency                       ,0.07026676938901469
+10 ,gld_transactions_per_request         ,0.06874171827505483
+72 ,inst_compute_ld_st                   ,0.06561550290976241
+73 ,inst_misc                            ,0.06455616235469686
+76 ,cf_executed                          ,0.05644660676224617
+37 ,l2_read_throughput                   ,0.05178277755022719
+74 ,issue_slots                          ,0.05150737814399664
+39 ,sysmem_write_throughput              ,0.04998130532104703
+86 ,sm_efficiency                        ,0.04883447242090073
+6  ,inst_replay_overhead                 ,0.0449306980734515
+23 ,global_hit_rate                      ,0.04293439543212539
+4  ,warp_execution_efficiency            ,0.04248740993371158
+98 ,l2_global_load_bytes                 ,0.04091079932579241
+95 ,inst_executed_global_stores          ,0.036974875857331294
+46 ,tex_cache_transactions               ,0.03583077848080283
+105,global_store_requests                ,0.031961309238363364
+64 ,stall_constant_memory_dependency     ,0.029833253248968374
+31 ,l2_tex_write_hit_rate                ,0.028277344847772883
+77 ,ldst_issued                          ,0.028015976567651767
+62 ,stall_sync                           ,0.02774214750855183
+38 ,l2_write_throughput                  ,0.026133606160906275
+41 ,local_store_throughput               ,0.02422610142963841
+103,global_load_requests                 ,0.023958913420989675
+80 ,stall_memory_throttle                ,0.023890101425874225
+84 ,issued_ipc                           ,0.023577079008693
+19 ,l2_read_transactions                 ,0.023426852487183375
+88 ,eligible_warps_per_cycle             ,0.023246293830740082
+65 ,stall_pipe_busy                      ,0.022671268175766927
+79 ,l2_tex_read_transactions             ,0.021241478478449795
+29 ,tex_cache_hit_rate                   ,0.019368308333543575
+33 ,dram_write_throughput                ,0.018661777782326153
+106,local_store_requests                 ,0.01853665640294301
+16 ,gld_transactions                     ,0.017750173383068717
+32 ,dram_read_throughput                 ,0.017639723053833815
+53 ,flop_count_sp_fma                    ,0.017331262526279173
+42 ,shared_load_throughput               ,0.015027703028867996
+61 ,stall_texture                        ,0.014380845341679839
+57 ,inst_issued                          ,0.01422235585948356
+118,shared_utilization                   ,0.01317939251400523
+25 ,gst_requested_throughput             ,0.01260366253556926
+24 ,gld_requested_throughput             ,0.012260481746256111
+60 ,stall_memory_dependency              ,0.011772015434180072
+109,unique_warps_launched                ,0.011633210150401386
+114,dram_utilization                     ,0.010241723925888563
+111,Kernel_Name                          ,0.009681712015054734
+92 ,pcie_total_data_received             ,0.009535719950981382
+99 ,l2_local_load_bytes                  ,0.008815191031618408
+91 ,pcie_total_data_transmitted          ,0.00863421069712672
+43 ,shared_store_throughput              ,0.008370079093977589
+51 ,flop_count_sp                        ,0.008082759113788413
+28 ,local_memory_overhead                ,0.008011451733707483
+123,special_fu_utilization               ,0.007353566328565582
+17 ,gst_transactions                     ,0.006478681391315294
+35 ,l2_tex_read_throughput               ,0.006158304522075976
+69 ,inst_integer                         ,0.005916613811268024
+81 ,stall_not_selected                   ,0.0054841166494802775
+89 ,flop_sp_efficiency                   ,0.005040674198110371
+71 ,inst_control                         ,0.004880929140165388
+120,ldst_fu_utilization                  ,0.003933133451373922
+93 ,inst_executed_global_loads           ,0.0033348920742557377
+8  ,shared_store_transactions_per_request,0.0028133742491143207
+75 ,cf_issued                            ,0.002767544278845378
+11 ,gst_transactions_per_request         ,0.0023018308827017333
+113,double_precision_fu_utilization      ,0.002169070253596423
+78 ,ldst_executed                        ,0.0019158630770165818
+125,l2_utilization                       ,0.0016670372338089582
+122,tex_fu_utilization                   ,0.001351781048935803
+82 ,l2_tex_write_transactions            ,0.0013382041995039266
+119,tex_utilization                      ,0.0010456802643382917
+112,single_precision_fu_utilization      ,0.0008880123518273321
+54 ,flop_count_sp_mul                    ,0.0008123565503251239
+102,l2_local_global_store_bytes          ,0.0004005327581503206
+2  ,inst_per_warp                        ,1.0303297526513056e-05
+104,local_load_requests                  ,0.0
+117,sysmem_write_utilization             ,0.0
+124,half_precision_fu_utilization        ,0.0
+121,cf_fu_utilization                    ,0.0
+7  ,shared_load_transactions_per_request ,0.0
+9  ,local_store_transactions_per_request ,0.0
+115,sysmem_utilization                   ,0.0
+116,sysmem_read_utilization              ,0.0
+14 ,local_load_transactions              ,0.0
+15 ,local_store_transactions             ,0.0
+18 ,sysmem_write_transactions            ,0.0
+40 ,local_load_throughput                ,0.0
+107,sysmem_write_bytes                   ,0.0
+96 ,inst_executed_local_stores           ,0.0
+0  ,mem_clock_x                          ,0.0

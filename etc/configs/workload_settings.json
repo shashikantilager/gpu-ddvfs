@@ -1,0 +1,159 @@
+{
+  "particlefilter_naive": {
+    "app_name": "particlefilter_naive",
+    "runfile": "pyrun_naive.py",
+    "path": "/rodinia_3.1/cuda/particlefilter/",
+    "execution_time": 0.4026079177856445,
+    "arrival_time": 19.198719562185428,
+    "sys_time_deadline": 19.929757920604832,
+    "exec_time_deadline": 0.7310383584194042
+  },
+  "particlefilter_float": {
+    "app_name": "particlefilter_float",
+    "runfile": "pyrun_float.py",
+    "path": "/rodinia_3.1/cuda/particlefilter/",
+    "execution_time": 0.4727742671966553,
+    "arrival_time": 14.406679556984685,
+    "sys_time_deadline": 15.311089524657083,
+    "exec_time_deadline": 0.9044099676723985
+  },
+  "lavaMD": {
+    "app_name": "lavaMD",
+    "runfile": "pyrun.py",
+    "path": "/rodinia_3.1/cuda/lavaMD/",
+    "execution_time": 3.443821668624878,
+    "arrival_time": 23.141826153521922,
+    "sys_time_deadline": 28.792268106152235,
+    "exec_time_deadline": 5.650441952630313
+  },
+  "streamcluster": {
+    "app_name": "streamcluster",
+    "runfile": "pyrun.py",
+    "path": "/rodinia_3.1/cuda/streamcluster/",
+    "execution_time": 55.946359157562256,
+    "deadline": 76.3777652995485
+  },
+  "backprop": {
+    "app_name": "backprop",
+    "runfile": "pyrun.py",
+    "path": "/rodinia_3.1/cuda/backprop/",
+    "execution_time": 1.3256375789642334,
+    "arrival_time": 33.12369984298678,
+    "sys_time_deadline": 34.766463873037566,
+    "exec_time_deadline": 1.6427640300507846
+  },
+  "srad_v1": {
+    "app_name": "srad",
+    "runfile": "pyrun_sradv1.py",
+    "path": "/rodinia_3.1/cuda/srad/srad_v1/",
+    "execution_time": 31.889124631881714,
+    "deadline": 31.91517029572511
+  },
+  "srad_v2": {
+    "app_name": "srad",
+    "runfile": "pyrun_sradv2.py",
+    "path": "/rodinia_3.1/cuda/srad/srad_v2/",
+    "execution_time": "",
+    "deadline": ""
+  },
+  "myocyte": {
+    "app_name": "myocyte",
+    "runfile": "pyrun.py",
+    "path": "/rodinia_3.1/cuda/myocyte/",
+    "execution_time": 6.921448707580566,
+    "arrival_time": 17.513432390355163,
+    "sys_time_deadline": 19.25954363291726,
+    "exec_time_deadline": 1.7461112425620975
+  },
+  "nbody": {
+    "app_name": "nbody",
+    "runfile": "nbody",
+    "path": "/usr/local/cuda-10.1/samples/5_Simulations/nbody/",
+    "execution_time": "",
+    "deadline": ""
+  },
+  "SYRK": {
+    "app_name": "SYRK",
+    "runfile": "pyrun.py",
+    "path": "/polybench/polybench-gpu-1.0/CUDA/SYRK/",
+    "execution_time": 0.4227907657623291,
+    "arrival_time": 6.188943748790216,
+    "sys_time_deadline": 6.684674831780673,
+    "exec_time_deadline": 0.4957310829904573
+  },
+  "SYR2K": {
+    "app_name": "SYR2K",
+    "runfile": "pyrun.py",
+    "path": "/polybench/polybench-gpu-1.0/CUDA/SYR2K/",
+    "execution_time": 1.9526188373565676,
+    "arrival_time": 31.095017631319788,
+    "sys_time_deadline": 34.864165033891524,
+    "exec_time_deadline": 3.769147402571736
+  },
+  "GRAMSCHM": {
+    "app_name": "GRAMSCHM",
+    "runfile": "pyrun.py",
+    "path": "/polybench/polybench-gpu-1.0/CUDA/GRAMSCHM/",
+    "execution_time": "",
+    "deadline": ""
+  },
+  "GEMM": {
+    "app_name": "GEMM",
+    "runfile": "pyrun.py",
+    "path": "/polybench/polybench-gpu-1.0/CUDA/GEMM/",
+    "execution_time": 0.4275617599487305,
+    "arrival_time": 2.1925998042137005,
+    "sys_time_deadline": 2.7673688059821924,
+    "exec_time_deadline": 0.5747690017684919
+  },
+  "GESUMMV": {
+    "app_name": "GESUMMV",
+    "runfile": "pyrun.py",
+    "path": "/polybench/polybench-gpu-1.0/CUDA/GESUMMV/",
+    "execution_time": "",
+    "deadline": ""
+  },
+  "FDTD-2D": {
+    "app_name": "FDTD-2D",
+    "runfile": "pyrun.py",
+    "path": "/polybench/polybench-gpu-1.0/CUDA/FDTD-2D/",
+    "execution_time": "",
+    "deadline": ""
+  },
+  "COVAR": {
+    "app_name": "COVAR",
+    "runfile": "pyrun.py",
+    "path": "/polybench/polybench-gpu-1.0/CUDA/COVAR/",
+    "execution_time": 2.5993454456329346,
+    "arrival_time": 29.100507764090867,
+    "sys_time_deadline": 31.09909427546036,
+    "exec_time_deadline": 1.998586511369492
+  },
+  "CORR": {
+    "app_name": "CORR",
+    "runfile": "pyrun.py",
+    "path": "/polybench/polybench-gpu-1.0/CUDA/CORR/",
+    "execution_time": 2.6415698528289795,
+    "arrival_time": 28.4788949174211,
+    "sys_time_deadline": 33.47425572416092,
+    "exec_time_deadline": 4.995360806739818
+  },
+  "ATAX": {
+    "app_name": "ATAX",
+    "runfile": "pyrun.py",
+    "path": "/polybench/polybench-gpu-1.0/CUDA/ATAX/",
+    "execution_time": 1.337623119354248,
+    "arrival_time": 22.29137239393526,
+    "sys_time_deadline": 23.004826341136603,
+    "exec_time_deadline": 0.7134539472013444
+  },
+  "2MM": {
+    "app_name": "2MM",
+    "runfile": "pyrun.py",
+    "path": "/polybench/polybench-gpu-1.0/CUDA/2MM/",
+    "execution_time": 1.6008415222167969,
+    "arrival_time": 18.37085941001874,
+    "sys_time_deadline": 20.087587455834832,
+    "exec_time_deadline": 1.7167280458160938
+  }
+}

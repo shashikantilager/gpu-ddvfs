@@ -1,4 +1,4 @@
-# gpu-d-dvfs
+# GPU-DDVFS: Data Driven GPU Dynamic Voltage Scaling
 
 ## Abstract
 Modern computing paradigms, such as cloud computing, are increasingly adopting GPUs to boost their computing capabilities primarily 

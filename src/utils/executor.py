@@ -1,10 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-#
-# In order to execute a job, a thread is create to run the command in background.
-# When the command finishes, it returns its output.
-#
-# Copyright © 2017 Marcelo Amaral <marcelo.amaral@bsc.es>
+
 
 from __future__ import print_function
 
